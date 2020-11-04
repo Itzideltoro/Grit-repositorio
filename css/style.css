@@ -13,8 +13,16 @@
     width: 400px;  
     height: 420;
     padding: 1%;
-        border-radius:10px;
-
-   
-     
+    border-radius:10px;    
+    
 }
+
+ul{
+    padding-top: 35px;
+    border-radius: 1%;
+    background-color: aqua;
+    border: blue;
+    width:15%;
+    height: 100px;
+    list-style: none;
+    }
