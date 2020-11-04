@@ -1,0 +1,9 @@
+ ul  {
+    padding-top: 35px;
+    border-radius: 1%;
+    background-color: aqua;
+    border: blue;
+    width: 15%;
+    height: 100px;
+    list-style: none;
+}
